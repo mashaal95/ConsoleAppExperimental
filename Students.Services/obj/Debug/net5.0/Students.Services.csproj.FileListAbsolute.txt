@@ -1,0 +1,15 @@
+C:\Users\Mashaal\Experimental\Students.Services\bin\Debug\net5.0\Students.Services.deps.json
+C:\Users\Mashaal\Experimental\Students.Services\bin\Debug\net5.0\Students.Services.dll
+C:\Users\Mashaal\Experimental\Students.Services\bin\Debug\net5.0\ref\Students.Services.dll
+C:\Users\Mashaal\Experimental\Students.Services\bin\Debug\net5.0\Students.Services.pdb
+C:\Users\Mashaal\Experimental\Students.Services\bin\Debug\net5.0\Students.Core.dll
+C:\Users\Mashaal\Experimental\Students.Services\bin\Debug\net5.0\Students.Core.pdb
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.csprojAssemblyReference.cache
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.AssemblyInfoInputs.cache
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.AssemblyInfo.cs
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.csproj.CopyComplete
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.dll
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\ref\Students.Services.dll
+C:\Users\Mashaal\Experimental\Students.Services\obj\Debug\net5.0\Students.Services.pdb

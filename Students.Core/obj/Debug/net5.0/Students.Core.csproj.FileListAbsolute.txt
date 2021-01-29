@@ -1,0 +1,11 @@
+C:\Users\Mashaal\Experimental\Students.Core\bin\Debug\net5.0\Students.Core.deps.json
+C:\Users\Mashaal\Experimental\Students.Core\bin\Debug\net5.0\Students.Core.dll
+C:\Users\Mashaal\Experimental\Students.Core\bin\Debug\net5.0\ref\Students.Core.dll
+C:\Users\Mashaal\Experimental\Students.Core\bin\Debug\net5.0\Students.Core.pdb
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\Students.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\Students.Core.AssemblyInfoInputs.cache
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\Students.Core.AssemblyInfo.cs
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\Students.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\Students.Core.dll
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\ref\Students.Core.dll
+C:\Users\Mashaal\Experimental\Students.Core\obj\Debug\net5.0\Students.Core.pdb
